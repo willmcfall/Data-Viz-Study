@@ -54,7 +54,7 @@ $(document).ready(function () {
         .attr("x", function (d, i) {return x(i) + (barWidth - 2 * barPadding)/2; })
         .attr("y", function (d) {return y(d); })
         .attr("text-anchor", "middle")
-        .attr("fill", "black");
+        .attr("fill", "white");
  
 
     // // Section to create axis

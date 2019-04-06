@@ -1,3 +1,8 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
 .bar-chart{
     background-color: white;
     margin: auto;
@@ -6,5 +11,5 @@
 
     
 .bar {
-    fill: cyan;
+    fill: darkslategray;
     }
