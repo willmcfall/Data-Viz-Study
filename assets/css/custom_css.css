@@ -1,8 +1,10 @@
 .bar-chart{
     background-color: white;
+    margin: auto;
+    display: block;
 }
 
     
 .bar {
-    fill: #115D8C;
+    fill: cyan;
     }
