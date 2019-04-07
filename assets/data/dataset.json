@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Springfield",
+        "value": 80
+    },
+    {
+        "name": "Rockford",
+        "value": 100
+    },
+    {
+        "name": "Chicago",
+        "value": 56
+    },
+    {
+        "name": "Bloomington",
+        "value": 120
+    },
+    {
+        "name": "Urbana",
+        "value": 180
+    },
+    {
+        "name": "Carlinville",
+        "value": 30
+    },
+    {
+        "name": "Carbondale",
+        "value": 40
+    },
+    {
+        "name": "Edwardsville",
+        "value": 120
+    },
+    {
+        "name": "Edwardsville",
+        "value": 160
+    }
+]

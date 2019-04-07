@@ -2,6 +2,9 @@ body{
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
+td, th {
+    padding: 1px 4px;
+}
 
 .bar-chart{
     background-color: white;
@@ -12,4 +15,5 @@ body{
     
 .bar {
     fill: #89023E;
-    }
+}
+
